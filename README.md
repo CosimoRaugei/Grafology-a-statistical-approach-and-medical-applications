@@ -18,10 +18,10 @@ The paper examines the use of statistical tools to support graphologists in eval
 
 ## Future Improvements
 
-While this project lays a foundation, future iterations could:
+While this project lays a foundation, future studies could:
 - Enhance the statistical models for greater precision.
 - Expand the range of graphological parameters and testing data.
-- Integrate machine learning techniques for automated handwriting assessment.
+- Integrate machine learning techniques for automated handwriting assessment (very very useful).
 
 ## Contact
 For any questions or collaborative ideas, feel free to reach out to me at cosimo.raugei5@gmail.com :)
